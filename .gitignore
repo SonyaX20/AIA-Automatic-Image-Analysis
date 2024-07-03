@@ -1,4 +1,5 @@
-/*
-!.gitignore
-!HA_21/
-!HA_21/HW21-0627.ipynb
+img/
+**/.ipynb_checkpoints/
+**/__pycache__/
+**/data/
+HA_22/highway/
