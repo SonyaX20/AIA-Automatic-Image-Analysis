@@ -1,5 +1,5 @@
-img/
-**/.ipynb_checkpoints/
-**/__pycache__/
-**/data/
-HA_22/highway/
+*
+*/assignment_2.1+2.2/HA_21/*.ipynb
+*/assignment_2.1+2.2/HA_21/*.py
+*/assignment_2.1+2.2/HA_22/*.ipynb
+*.md
