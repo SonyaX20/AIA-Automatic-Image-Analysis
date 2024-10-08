@@ -1,5 +1,4 @@
-*
-*/assignment_2.1+2.2/HA_21/*.ipynb
-*/assignment_2.1+2.2/HA_21/*.py
-*/assignment_2.1+2.2/HA_22/*.ipynb
-*.md
+Assignment1-1/
+Assignment1-2/
+*/__pycache/
+*/.ipynb_checkpoints/
